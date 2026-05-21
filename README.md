@@ -2,7 +2,7 @@
 
 A simple Spring Boot REST API for managing items.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Java 17+
@@ -15,7 +15,7 @@ mvn spring-boot:run
 
 The server starts at `http://localhost:8080`
 
-## 📡 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint          | Description        |
 |--------|-------------------|--------------------|
@@ -25,7 +25,7 @@ The server starts at `http://localhost:8080`
 | PUT    | /api/items/{id}   | Update an item     |
 | DELETE | /api/items/{id}   | Delete an item     |
 
-## 📦 Sample Request
+## Sample Request
 
 ### Create an Item
 ```bash
