@@ -39,7 +39,7 @@ curl -X POST http://localhost:8080/api/items \
 curl http://localhost:8080/api/items
 ```
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Java 17
 - Spring Boot 3.2
 - Maven
